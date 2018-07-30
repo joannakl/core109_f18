@@ -1,0 +1,64 @@
+
+
+<div class="lecture1">
+
+
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 1 <br> 
+Wed, Sep 6 
+
+</p>
+</div>
+
+
+
+<div class="column_materials" >
+<p markdown="block">
+
+*Introduction to the class*: syllabus, what is this class about? why are we here? is this a class for you?
+
+<br>
+['Not a Math Person': How to Remove Obstacles to Learning Math](https://ww2.kqed.org/mindshift/2015/11/30/not-a-math-person-how-to-remove-obstacles-to-learning-math/) 
+by Katrina Schwartz 
+
+
+</p>
+</div>
+
+
+
+<div class="column_assign">
+<p markdown="block">
+
+There are three task for you to complete after today's class: 
+
+**1. Sign up for `PythonAnywhere` account and join the class (due Sept. 6 at 11:55pm)**:
+
+* Go to the the website [PythonAnywhere.com](https://www.pythonanywhere.com/)
+* Click the big green button that states: *Start running Python online in less than a minute!*
+* ... and on the next page click *Create a Beginner account* 
+* Complete the information 
+* Once you have an account, log in and join the class. When you log in, you should be looking 
+at a screen similar to this one 
+
+    [<img src="{{ site.url }}/resources/images/pythonAnywhere_dashboard.png" alt="PythonAnywhere Dashboard" style="width: 80%;"/>]({{ site.url }}/resources/images/pythonAnywhere_dashboard.png)
+* Click on the *Account* link in the upper right corner, switch to the *Teacher* tab and
+enter the username of your teacher: **joannakl** 
+
+
+**2. Study [module 1]({{ site.modules }}/module01.php) (due Sept. 11 before the class)**
+
+* Start at the section titled *Functions & Function Calls* and use `PythonAnywhere` instead of IDLE. 
+* (We will use a different IDE than IDLE. You'll get a chance to install it
+on your own computer next week.) 
+
+**3. Complete the quiz 1 for module 1 on NYU Classes (due Sept. 11 before the class)**           
+
+
+</p>
+</div>
+
+</div>

@@ -1,0 +1,27 @@
+<div class="recitation">
+
+
+
+<div class="column_date">
+<p markdown="block">
+
+Lab # 5 <br> 
+Thu, Oct. 5
+
+</p>
+</div>
+
+
+
+<div class="column_recitation" >
+<p markdown="block">
+
+* [Sample exam](slides/exams/midterm1.pdf) 
+* more [sample questions](slides/exams/midterm1_sample_questions.html) 
+
+</p>
+</div>
+
+
+
+</div>

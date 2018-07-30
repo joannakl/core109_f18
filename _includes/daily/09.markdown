@@ -1,0 +1,44 @@
+
+<div class="lecture1">
+
+
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 6 <br> 
+Mon, Sep 25
+
+</p>
+</div>
+
+
+
+<div class="column_materials" >
+<p markdown="block">
+
+* repeating things in Python: [slides]({{ site.url }}/slides/week3/for-loops.html),
+ [for printing]({{ site.url }}/slides/week3/for-loops.pdf)  
+
+<!-- 
+* [code mangler exercise]({{ site.url }}/slides/week2/week2_code_mangler.pdf): rearrange 
+the lines of code and comments so that they form a proper Python program 
+-->
+
+
+</p>
+</div>
+
+
+
+<div class="column_assign">
+<p markdown="block">
+
+- work on _programming challenges_ questions from this week and last week
+slides 
+ 
+
+</p>
+</div>
+
+</div>
