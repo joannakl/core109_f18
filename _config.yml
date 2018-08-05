@@ -22,7 +22,7 @@ course_number: "CORE-UA 109"
 course_name: "Quantitative Reasoning"
 course_section: "001"
 course_semester: "Fall 2018"
-course_time: "Mondays and Wednesdays 9:30AM - 10:45PM, 45W4 B02  <br>"
+course_time: "Mondays and Wednesdays 9:30AM - 10:45AM, 45W4 B02  <br>"
 
 recitation_section: "002"
 recitation_time:  "Thursdays 9:30AM - 10:45AM, room WAV 668 (24 Waverly Place, room 668) <br>"
@@ -39,8 +39,8 @@ recitation_office_hours_location: "TBD"
 tutor_location: "TBD"
 tutor_schedule_link: "TBD"
 
-midterm_exam_date: "TBD"
-final_exam_date: "__Mon., Dec. 17, 8:00am-9:50am __"
+midterm_exam_date: "__exam 1__: week of Oct. 1, __exam 2__: week of Nov. 5"
+final_exam_date: "__Mon., Dec. 17, 8:00am-9:50am__"
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site:
