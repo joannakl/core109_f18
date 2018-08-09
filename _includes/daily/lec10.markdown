@@ -19,10 +19,12 @@ Tue,10/09
 <div class="column_assign">
 <p markdown="block">
 
+__Legislatie day: classes follow Monday schedule__
+
+
 
 
 </p>
 </div>
 
 </div>
-
