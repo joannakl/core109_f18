@@ -1,7 +1,35 @@
 ---
-layout: default 
-days: 
-    - "01"
+layout: default
+days:
+    - "lec1"
+    - "lec2"
+    - "lec3"
+    - "lec4"
+    - "lec5"
+    - "lec6"
+    - "lec7"
+    - "lec8"
+    - "lec9"
+    - "lec10"
+    - "lec11"
+    - "lec12"
+    - "lec13"
+    - "lec14"
+    - "lec15"
+    - "lec16"
+    - "lec17"
+    - "lec18"
+    - "lec19"
+    - "lec20"
+    - "lec21"
+    - "lec22"
+    - "lec23"
+    - "lec24"
+    - "lec25"
+    - "lec26"
+    - "lec27"
+    - "lec28"
+
 ---
 
 
@@ -9,20 +37,20 @@ days:
     <div class="column_date">
         Date
     </div>
-    
+
     <div class="column_materials">
-        Material Covered, Notes, Handouts and Links 
+        Material Covered, Notes, Handouts and Links
     </div>
-    
+
     <div class="column_assign">
         Readings, Assignments, Homework
     </div>
-</div>  
+</div>
 {% comment %}
 {% for i in page.days reversed %}
     {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
     {% include   {{ file_name }} %}
-     
+
 {% endfor %}
 
 {% endcomment %}
@@ -32,7 +60,7 @@ days:
     {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
     {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
     {{ my_include | markdownify }}
-     
+
 {% endfor %}
 
 
@@ -42,7 +70,3 @@ days:
 
 <br>
 <br>
-        
-        
-        
-        
