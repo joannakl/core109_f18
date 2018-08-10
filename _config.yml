@@ -140,9 +140,17 @@ book_opt_10_note: "free open source book"
 book_opt_10_image: "https://open.umn.edu/opentextbooks/Images/1938168992.png"
 
 
-book_opt_11: ", "
-book_opt_11_author: ", "
-book_opt_11_edition: ""
-book_opt_11_link: ""
+book_opt_11: "Think Python, "
+book_opt_11_author: "Allen B. Downey, "
+book_opt_11_edition: "2e"
+book_opt_11_link: "http://greenteapress.com/wp/think-python-2e/"
 book_opt_11_note: "free open source book"
-book_opt_11_image:
+book_opt_11_image: "http://greenteapress.com/thinkpython2/think_python2_medium.jpg"
+
+
+book_opt_12: ", "
+book_opt_12_author: ", "
+book_opt_12_edition: ""
+book_opt_12_link: ""
+book_opt_12_note: "free open source book"
+book_opt_12_image:
