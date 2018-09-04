@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Counting and Probability  </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="../css/slides.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Counting and Probability  
+
+
+.author[
+CORE-UA 109.01, Joanna Klukowska <br>
+
+
+] 
+
+
+---
+class: center, middle
+
+.section[
+# counting things  
+]
+
+
+---
+# picking lunch 
+
+
+You have the following options at your favorite lunch place. How many days 
+will you be able to eat there without repeating the same combination? 
+
+
+.left-column2[
+- sandwitch (pick one)
+    - hamburger
+    - grilled chicken 
+    - fish
+    - veggies 
+- sides (pick one)
+    - french fries
+    - onion rings
+    - salad
+- drink (pick one)
+    - tea
+    - water
+    - coke
+    - sprite
+    - milk 
+
+]
+.right-column2[
+<img src="http://res.publicdomainfiles.com/pdf_view/57/13529345425953.png" width=50% alt="lunch"> 
+
+]
+
+--
+
+There are 4 choices for a sandwitch, 3 choices for a side and 5 choices
+for a drink. 
+
+Assuming you are willing to eat/drink everything on the menu,
+there are <br>
+4 `*` 3 `*` 5 = 60<br>
+different meals that can be created. 
+
+
+---
+
+# NYU id numbers
+
+.left-column2[
+<img src="https://lh5.googleusercontent.com/IyJCzvWW3TVjqOPah7dvtL1f9Scj6Vx3yktwQI_z1nc0VSA9LzM_jMHY2xNk5Pw2chGubkH9E20GoWnsPZvgMRlCxTWPmdqeJ-1iDp1E-OaDk0faVPmnCwzUoA" width=80% alt="NYU id"> 
+
+]
+.right-column2[
+NYU assigns unique id numbers to all of its students and employees. 
+
+Each id starts with a letter 'N' and is followed by 8 digits.
+
+- How many different unique id numbers can be generated using this model? 
+
+
+]
+
+--
+
+.below-column2[
+
+- for each of the 8 digit positions, there are 10 different possibilities:
+0, 1, 2, ..., 9 
+
+- since there is only one possibility for the letter, there are no choices there
+
+- this means there are <br>
+
+    1 `*` 10 `*` 10 `*` 10 `*` 10 `*` 10 `*` 10 `*` 10 `*` 10 = 10^8 = 100,000,000 <br>
+
+    possible unique id numbers  
+
+]
+
+---
+
+# license plates
+
+
+Automobile license plates typically have a combination of letters ( 26 ) and numbers ( 10 ). Over time, the state of New
+York has used different criteria to assign vehicle license plate numbers.
+
+.center[
+<img src="https://dmv.ny.gov/sites/default/files/styles/panopoly_image_original/public/Plates_2.png?itok=-1gvx8I1" width=80% alt="NYS license plate"> 
+]
+
+- From 1973 to 1986, the state used a 3-letter and 4-number code where the three letters indicated the county where the vehicle was registered. 
+Essex County had 13 different 3-letter codes in use. How many cars could be
+registered in Essex? 
+
+- Since 2001, the state has used a 3-letter and 4-number code but no longer assigns letters by county. 
+As of [2016 report](https://dmv.ny.gov/statistic/2016reginforce-web.pdf) New
+York state had 11,256,778 vehicles registered. 
+Is this coding scheme enough to register all of the vehicles in New York state?
+
+
+
+
+---
+class: center, middle
+
+.section[
+# probabilities 
+]
+
+---
+
+# lucky id numbers 
+
+What is the chance that a person is assigned an NYU id number that 
+consists of all of the digits that are the same? <br>
+
+For example, N11111111 or N44444444. 
+
+--
+
+- there are total of 100,000,000 possible id numbers
+
+- how many id numbers have all the same digits?
+
+--
+
+    - 10 (the one with all 1's, the one with all 2's, ...) 
+
+--
+
+- so the chance of getting a number that has all the same digits (assuming all numbers are equally likely is: 10 / 100,000,000 which is one
+in ten million 
+
+<br><br>
+.small[
+Dsiclaimer: NYU probably does not assign the id numbers randomly; there are
+are also other rules for what a valid id can be. 
+]
+
+---
+
+# picking lunch with a friend 
+
+
+
+.left-column2-small[
+.small[
+- sandwitch (pick one)
+    - hamburger
+    - grilled chicken 
+    - fish
+    - veggies 
+- sides (pick one)
+    - french fries
+    - onion rings
+    - salad
+- drink (pick one)
+    - tea
+    - water
+    - coke
+    - sprite
+    - milk 
+]]
+
+.right-column2-large[
+
+You find out that your best friend also likes your favorite lunch place.
+You decide to start going together and play a chance game:
+- you order your lunch separately and without talking to each other about it
+in advance
+
+]
+
+--
+
+.below-column2[
+
+Figure out the answers to the following questions: 
+
+- what is the chance that you both end up with exactly the same lunch?
+
+- what is the chance that you both end up with a hamburger? 
+
+- what is the chance that you both end up with the same sandwitch?  
+
+] 
+
+---
+# probability summary 
+
+__sample space__ - set of all possible outcomes
+
+__event__ - subset of possible outcomes that we are interested in (those outcomes
+are usually equally likely) 
+
+The __probability of an event__ is then defined by the fraction calculated as the 
+number of outcomes of an event divided by the total number of outcomes in the sample 
+space. 
+
+The __probability of two or more independent events__ is the product of 
+the associated probabilities.  
+
+(Two events are __independent__ if the occurrence of one does not change the probability
+of the other occuring.) 
+
+---
+class: center, middle
+
+.section[
+# problems 
+]
+
+---
+# selecting a new car
+
+Supposed a new car model comes with the following options:
+
+- 3 choices of body style (2-door, 4-door, station wagon)
+
+- 4 colors (black, red, silver, green)
+
+- 2 choices of engine size (4 or 6 cylinder)
+
+Answer the following questions: 
+
+- how many different orders can be placed for the car? 
+
+- if you select one of those possible car options at random,
+what is the probability of getting a 4-door car? 
+
+- if you select one of those possible car options at random, what is
+the probability of getting a silver or a black car? 
+
+.center[
+<img src="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-23749-4808u4_6c3bbc0d.jpeg?region=0%2C0%2C400%2C300" width=25% alt="cars"> 
+]
+
+
+
+---
+
+# coin toss
+
+
+.right[
+
+<img src="http://www.paperspencils.com/wp-content/uploads/2016/04/flipping-a-coin-gives-you-the-truth-of-the-matter-21350026.jpg" width=15% alt="coin toss"> 
+
+]
+
+Suppose you are tossing 3 coins and want  2 heads.
+
+- list all of the possible outcomes for tossing three coins (this is called
+a sample space)
+
+- list all of the possible outcomes for getting exactly two heads (this is called the
+event)
+
+- what is the probability of tossing 3 coins and getting exactly two heads? 
+
+- what is the probability of tossing 3 coins and getting at least two heads? 
+
+
+
+
+
+---
+
+# marbles
+
+
+.left[
+
+<img src="http://etc.usf.edu/clipart/41400/41420/b4s2w4_41420_md.gif  " width=15% alt="coin toss"> 
+]   
+
+Suppose you have a jar with 5 white marbles and 8 black marbles.
+
+- what is the probability of drawing a black marble?
+
+- what is the probability of drawing a white marble?
+
+- add the two values from the previous questions? what value did you get?
+is that reasonable?
+
+- suppose you draw one marble, put it back in the jar and then draw another 
+marble
+    - what is the probability that both are black?
+    - what is the probability that both are white?
+    - what is the probability that the first is white and the second is black?
+    
+
+
+---
+class: center, middle
+
+.section[
+# probability distribution and expected value 
+]
+
+---
+# what is a probability distribution? 
+
+
+A __probability distribution__ is a collection of all outcomes of a random 
+phenomenon together with their associated probabilities. 
+
+Example: 
+
+Probability distribution of rolling a fair six sided die:
+
+- there are six possible outcomes: 1, 2, 3, 4, 5, 6
+
+- each of them is equally likely, so the probability of each is 1/6 
+
+The probability distribution can be presented in a table:
+
+
+outcomes: | 1 | 2 | 3 | 4 | 5 | 6
+----|--|--|--|--|--|--
+probabilities:| 1/6 | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 
+
+---
+# two dice?
+
+What is the probability distribution when rolling two fair six sided dice? 
+
+--
+
+- how many outcomes are there? 
+
+- what is the probability of each outcome? 
+
+- create the probability distribution table 
+
+
+--
+
+- there are 11 possible outcomes: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 
+
+- there are 36 different combinations (since rolling 1 with the first die and 5 with the second, AND rolling 5 with the first die and 1 with the second are two different possibities) 
+
+
+outcomes: | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10| 11| 12| 
+----|--|--|--|--|--|--
+probabilities:| 1/36 | 2/36 | 3/36 | 4/36 | 5/36 | 6/36 | 5/36 | 4/36 | 3/36 | 2/36 | 1/36 
+combinations: | (1,1) | (1,2)<br>(2,1) | (1,3)<br>(2,2)<br>(3,1) | (1,4)<br>(2,3)<br>(3,2)<br>(4,1) | (1,5)<br>(2,4)<br>(3,3)<br>(4,2)<br>(5,1) | (1,6)<br>(2,5)<br>(3,4)<br>(4,3)<br>(5,2)<br>(1,6) | (2,6)<br>(3,5)<br>(4,4)<br>(5,3)<br>(6,2) | (3,6)<br>(4,5)<br>(5,4)<br>(6,3) | (4,6)<br>(5,5)<br>(6,4) | (5,6)<br>(6,5) | (6,6) 
+---
+# expected value 
+
+We talk about expected values in the context of numerical data (often
+when talking about money).
+
+The __expected value__ is the __mean of the probability distribution__
+calculated as the sum of products of the outcomes and their respective 
+probilities. 
+
+_Example 1_
+
+What would be the expected value when rolling one fair six-sided die? 
+
+--
+
+The probability distribution is:
+
+
+outcomes: | 1 | 2 | 3 | 4 | 5 | 6
+----|--|--|--|--|--|--
+probabilities:| 1/6 | 1/6 | 1/6 | 1/6 | 1/6 | 1/6 
+
+So the expected value is calculated as 
+
+`1*1/6 + 2*1/6 + 3*1/6 + 4*1/6 + 5*1/6 + 6*1/6 = 21/6 = 3.5 `
+
+--
+
+_Example 2_
+
+What would be the expected value when rolling two fair six-sided dice? 
+
+
+---
+class: center, middle
+
+.section[
+# problems 
+]
+
+---
+
+# rolling dice
+
+- When rolling two dice, what is the probability that you get a 3 on the first die
+and a number greater than 3 on the second? 
+
+- When rolling two dice, what is the probability that the sum is greater than or
+equal to 7, but less than 10? 
+
+- What is the probability distribution and the expected value when rolling
+one five-sided fair die? 
+
+- What is the probability distribution and the expected value when rolling two 
+five-sided fair dice? 
+
+- You and a friend decide to play _gambling dice_. It costs $1.00 to play. If you roll a 5 or 6, you get a prize of $2.00 (one dollar profit). If you roll 
+any other value, you win nothing (you lose one dollar). What is the expected value 
+of your winnings/loses?  
+
+---
+
+# flipping a coin on an exam 
+
+Calvin is taking a test using _Calvin's method_ which involves flipping a coin and putting _true_ for heads and _false_ for tails. Suppose that the test contains
+10 questions. 
+
+- what is the probability that he gets all ten questions right? 
+
+- what is the probability that he gets none of the questions right?
+
+- what is the probability that he gets one question right? 
+
+- what is the probability that he gets nine questions right?  
+
+- what is the probability that he gets seven questions right? 
+
+- what is the probability distribution of all possible outcomes? 
+
+- what is his expected score on the test? 
+
+
+---
+
+
+
+# toss two coins
+
+Two coins are tossed. Find the probability of getting two heads.
+(Note: each toss can result either with heads (H) or tais (T) with equal probability, no edge cases!)
+
+--
+
+- count the outcomes and determine the number of outcomes that we want as a fraction of all possible outcomes 
+
+    - the sample space is: (H,T),(H,H),(T,H),(T,T)
+        that is 4 possible outcomes
+
+    - there is only one outcome with two heads (H,H), so the probability of getting two heads is 1/4 
+
+- an alternative way of arriving at that is as follows:
+
+    - the probability of getting a head on one coin is 1/2 (since the only two options are either heads or tails)
+    - the probability of getting a head on the other cois is 1/2 as well
+    - since we want a head of both coins we need to get it on the first coin AND on the second coin, that AND implies that we
+    have to multiply the two probabilities `1/2 * 1/2 = 1/4` 
+
+
+---
+
+# more dice problems
+
+Two six-sided dice are rolled, find the probability that the sum is  
+- equal to 1
+- equla to 4
+- less than 13
+
+--
+
+Sample space is (1,1),(1,2),(1,3),(1,4),(1,5),(1,6) 
+         (2,1),(2,2),(2,3),(2,4),(2,5),(2,6) 
+         (3,1),(3,2),(3,3),(3,4),(3,5),(3,6) 
+         (4,1),(4,2),(4,3),(4,4),(4,5),(4,6) 
+         (5,1),(5,2),(5,3),(5,4),(5,5),(5,6) 
+         (6,1),(6,2),(6,3),(6,4),(6,5),(6,6)  
+
+total of 36 possible outcomes. 
+         
+- event: sum equal to 1
+    there are no outcomes for which the sum is equal to 1, so the 
+    probability of getting a sum of 1 is 0/36 
+
+- event: sum equal to 4
+    there are three outcomes for which the sum is equal to 4: (1,3), (2,2), (3,1), so
+    the probability of getting a sum of 4 is 3/36 or 1/12
+    
+- event: sum less than 13
+    there are 36 outcomes for which the sum is smaller than 13 (all of them), so
+    the probability of getting a sum less than 13 is 36/36 or 1
+    
+---
+
+# coins and dice 
+
+We play a new game: roll a six-sided die and toss a coin.
+What is the probability of getting an odd number on the die and tails on the coin? 
+
+--
+
+- count the outcomes
+
+    - sample space: (1,H),(2,H),(3,H),(4,H),(5,H),(6,H) 
+           (1,T),(2,T),(3,T),(4,T),(5,T),(6,T) 
+        12 possible outcomes 
+    - three of those match out question: (1,T), (3,T), (5,T)
+    - so the probability of getting an odd number and tails is 3/12 or 1/4
+    
+- an alternative way of arriving at that same answer is as follows:
+
+    - the probability of getting an odd number is 1/2 (since half of the values on a six-sided die are odd)
+    - the probability of getting tails is 1/2 
+    - since we want and odd number AND the tails we just multiply the two fractions `1/2 * 1/2 = 1/4` 
+    
+---
+
+# a deck of cards
+
+consider a standard deck of cards:
+    - 4 suits: clubs, diamonds, hearts and spades
+    - each has 13 cards: A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K 
+    - total of 52 cards 
+    
+- draw one card at random; what is the probability of getting an ace (A)?
+- draw one card at random; what is the probability of getting a spade? 
+- draw one card at random; what is the probability of getting the queen of hearts? 
+
+- draw two cards; what is the probability of getting two clubs? 
+    - note, this will be different if 
+        - we draw one card, return it to the deck and then draw another, 
+    than if 
+        - we draw one card, keep it, and then draw another 
+
+---
+    </textarea>
+     <script src="../js/remark.js" type="text/javascript">
+    </script>
+    <script src="../js/remark_conf.js" type="text/javascript">
+    </script>
+    
+  </body>
+</html>
+
+
+<!--
+
+---
+
+# _partially matching_ license plates
+
+What is the chance that two people have license plates that have
+the same three initial letters? <br>
+
+For example, ABJ 9870 and ABJ 1245, or XYZ 3467 and XYZ 1239. 
+
+--
+
+- there are total of 175,760,000 possible license plates in NYS <br>
+(26 `*` 26 `*` 26 `*` 10 `*` 10 `*` 10 `*` 10) 
+
+- given a particular license plate with a particular three letter combination, how many other plates
+start with those letters? 
+
+--
+
+    - 9,999 (10 `*` 10 `*` 10 `*` 10 - 1)
+
+--
+
+- so the chance of two people having the same letters in a license plate is 
+10,000 / 175,760,000 = 1/17,576 (approximately one in seventeen thousand) 
+
+
+
+-->
+
+
