@@ -11,6 +11,7 @@ Wed, 9/05
 <div class="column_materials">
 <p markdown="block">
 
+Intro to the course. What is QR about? Why are we here?
 
 
 </p>
@@ -25,4 +26,3 @@ Wed, 9/05
 </div>
 
 </div>
-
