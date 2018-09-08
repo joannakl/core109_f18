@@ -11,6 +11,10 @@ Mon, 9/10
 <div class="column_materials">
 <p markdown="block">
 
+Starting with Python: printing information, getting input from users, variables,
+conversion functions, arithmetic operations, string operations
+
+[notes](https://drive.google.com/file/d/1CzSTvrArZvKyEUM2PL8pIuVCbTKptjhe/view?usp=sharing)
 
 
 </p>
@@ -25,4 +29,3 @@ Mon, 9/10
 </div>
 
 </div>
-
