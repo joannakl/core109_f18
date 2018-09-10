@@ -37,6 +37,15 @@ instructor_office_hours_location: "423 CIWW"
 recitation_office_hours: "Mondays 4-5pm, Tuesdays 3-5pm"
 recitation_office_hours_location: "412 CIWW"
 
+
+current_course1_title: "CSCI 102 sec. 5"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs102_f18/"
+current_course2_title: "CORE 109 sec. 1"
+current_course2_link: "https://cs.nyu.edu/~joannakl/core109_f18/"
+current_course3_title: ""
+current_course3_link: ""
+
+
 tutor_location: "TBD"
 tutor_schedule_link: "TBD"
 
