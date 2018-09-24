@@ -11,6 +11,11 @@ Wed, 9/26
 <div class="column_materials">
 <p markdown="block">
 
+Calculating percentage increase and decrease.
+How to use Python to solve math problems?
+
+[notes 05](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
 
 
 </p>
@@ -25,4 +30,3 @@ Wed, 9/26
 </div>
 
 </div>
-

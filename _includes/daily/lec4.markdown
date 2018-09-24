@@ -18,7 +18,12 @@ Boolean variables and values, truth tables.
 
 [notes 03](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
 
+__Additional reading:__
 
+
+- [Module \#3](https://cs.nyu.edu/elearning/CSCI_UA_0002/module03.php)
+- [Control Flow from _A Byte of Python_](https://python.swaroopch.com/control_flow.html) - first section on `if` statements
+- [Conditionals from _How to Think Like a Computer Scientist_](http://openbookproject.net/thinkcs/python/english3e/conditionals.html)
 
 </p>
 </div>

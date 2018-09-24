@@ -22,6 +22,9 @@ Using `range()` function and creating lists `[..., ..., ...]` to iterate over.
 
 [notes 04](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
 
+
+
+
 </p>
 </div>
 
