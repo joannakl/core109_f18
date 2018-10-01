@@ -11,6 +11,8 @@ Wed,10/03
 <div class="column_materials">
 <p markdown="block">
 
+Q&apm;A for the exam. Going over the sample exam.
+
 
 
 </p>
@@ -25,4 +27,3 @@ Wed,10/03
 </div>
 
 </div>
-
