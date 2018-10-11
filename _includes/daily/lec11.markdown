@@ -11,8 +11,9 @@ Wed,10/10
 <div class="column_materials">
 <p markdown="block">
 
+Exam 1 post-discussion.
 
-
+Simple interest vs. compound interest (linear and exponential growth). 
 </p>
 </div>
 
@@ -25,4 +26,3 @@ Wed,10/10
 </div>
 
 </div>
-

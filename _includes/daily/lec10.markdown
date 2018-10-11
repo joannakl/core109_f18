@@ -13,7 +13,11 @@ Tue,10/09
 
 __Legislatie day: classes follow Monday schedule__
 
+Inflation as a negative interest rate. Correcting for inflation.
 
+Electric bills and car rentals as examples of linear functions.
+
+Introduction to plotting tools with `matplotlib` and `numpy`. 
 
 </p>
 </div>
