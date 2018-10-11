@@ -13,7 +13,12 @@ Wed,10/10
 
 Exam 1 post-discussion.
 
-Simple interest vs. compound interest (linear and exponential growth). 
+Simple interest vs. compound interest (linear and exponential growth).
+
+
+[notes 07](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
+
 </p>
 </div>
 

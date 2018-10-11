@@ -17,7 +17,12 @@ Inflation as a negative interest rate. Correcting for inflation.
 
 Electric bills and car rentals as examples of linear functions.
 
-Introduction to plotting tools with `matplotlib` and `numpy`. 
+Introduction to plotting tools with `matplotlib` and `numpy`.
+
+
+[notes 06](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
+
 
 </p>
 </div>
