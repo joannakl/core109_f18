@@ -11,6 +11,12 @@ Mon,10/15
 <div class="column_materials">
 <p markdown="block">
 
+More on simple interest vs. compound interest (linear and exponential growth).
+
+Continue with 
+[notes 07](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
+
 
 
 </p>
@@ -25,4 +31,3 @@ Mon,10/15
 </div>
 
 </div>
-
