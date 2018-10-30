@@ -11,6 +11,7 @@ Wed,10/31
 <div class="column_materials">
 <p markdown="block">
 
+Statistical analysis of different data sets.
 
 
 </p>
@@ -25,4 +26,3 @@ Wed,10/31
 </div>
 
 </div>
-

@@ -12,6 +12,8 @@ Wed,11/07
 <p markdown="block">
 
 
+Q&amp;A for the exam. Come with questions!
+
 
 </p>
 </div>
@@ -25,4 +27,3 @@ Wed,11/07
 </div>
 
 </div>
-

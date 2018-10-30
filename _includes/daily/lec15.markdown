@@ -11,6 +11,13 @@ Wed,10/24
 <div class="column_materials">
 <p markdown="block">
 
+Working with lists: creating lists, modifying existing lists,
+storing data in lists, useful tools for lists.
+
+
+
+[notes 10](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
 
 
 </p>
@@ -25,4 +32,3 @@ Wed,10/24
 </div>
 
 </div>
-
