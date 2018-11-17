@@ -11,6 +11,7 @@ Wed,11/14
 <div class="column_materials">
 <p markdown="block">
 
+Calculating reading scores for children's books and more.
 
 
 </p>
@@ -25,4 +26,3 @@ Wed,11/14
 </div>
 
 </div>
-

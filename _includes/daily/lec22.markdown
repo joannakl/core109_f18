@@ -11,8 +11,9 @@ Mon,11/19
 <div class="column_materials">
 <p markdown="block">
 
+Using statistics to learn about literary texts.
 
-
+[One Writer Used Statistics to Reveal the Secrets of What Makes Great Writing](https://www.smithsonianmag.com/arts-culture/one-writer-used-statistics-reveal-secrets-what-makes-great-writing-180962515/)
 </p>
 </div>
 
@@ -25,4 +26,3 @@ Mon,11/19
 </div>
 
 </div>
-

@@ -11,7 +11,8 @@ Mon,11/05
 <div class="column_materials">
 <p markdown="block">
 
-
+Practice problem set for exam 2.
+Perfect numbers. 
 
 </p>
 </div>
@@ -25,4 +26,3 @@ Mon,11/05
 </div>
 
 </div>
-

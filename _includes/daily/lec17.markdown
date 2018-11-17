@@ -13,6 +13,8 @@ Wed,10/31
 
 Statistical analysis of different data sets.
 
+[notes 11](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
+
 
 </p>
 </div>

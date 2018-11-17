@@ -11,6 +11,10 @@ Mon,11/12
 <div class="column_materials">
 <p markdown="block">
 
+Working with strings in Python.
+
+
+[notes 12](https://drive.google.com/drive/folders/1-Rix3KyrOcqCpckkmU_nJX6-YUwnre7G?usp=sharing)
 
 
 </p>
