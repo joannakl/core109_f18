@@ -10,10 +10,14 @@ Thu,12/13
 <div class="column_recitation">
 <p markdown="block">
 
+<!--
+No lab assignment. Attendance optional. Come if you have problems that you
+want to work on or questions that you want to ask. These will be extended office
+hours.
+--> 
 
 
 </p>
 </div>
 
 </div>
-

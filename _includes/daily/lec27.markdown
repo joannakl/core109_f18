@@ -12,6 +12,7 @@ Mon,12/10
 <p markdown="block">
 
 
+Practice problems for the final exam. 
 
 </p>
 </div>
@@ -25,4 +26,3 @@ Mon,12/10
 </div>
 
 </div>
-

@@ -11,6 +11,8 @@ Mon,11/26
 <div class="column_materials">
 <p markdown="block">
 
+Continue with statistics of text.
+
 
 
 </p>
@@ -25,4 +27,3 @@ Mon,11/26
 </div>
 
 </div>
-

@@ -11,6 +11,14 @@ Wed,11/28
 <div class="column_materials">
 <p markdown="block">
 
+Presentations:
+- Ava, _Golden Ratio_
+
+- Christine, _Comparison of Streaming Services_
+
+- Anah, _New York's Subways_
+
+- Rachel, _Odds Are Against You_
 
 
 </p>
@@ -25,4 +33,3 @@ Wed,11/28
 </div>
 
 </div>
-

@@ -11,6 +11,7 @@ Wed,12/05
 <div class="column_materials">
 <p markdown="block">
 
+Mathematical paradoxes. 
 
 
 </p>
@@ -25,4 +26,3 @@ Wed,12/05
 </div>
 
 </div>
-
