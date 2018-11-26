@@ -13,7 +13,8 @@ Mon,11/26
 
 Continue with statistics of text.
 
-
+Working with real data.
+ 
 
 </p>
 </div>
