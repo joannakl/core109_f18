@@ -17,12 +17,12 @@ Presentations:
 
 - Lisa, _Human Sex Ratio_
 
-<!--
 - Heather, _Predicting Population of Sea Turtles_
 
 - Ella, _Turtle Deaths Associated with Plastic in the Oceans_
 
--->
+- Mary, _Comparing Hitting in Baseball and Softball_
+
 
 </p>
 </div>
