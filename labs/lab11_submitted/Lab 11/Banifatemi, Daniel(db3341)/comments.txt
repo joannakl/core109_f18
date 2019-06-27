@@ -1,0 +1,16 @@
+Problem 1:
+
+Nice work, but the average of the nests per female is closer
+to 5.5, not 5. 
+
+Problem 2: 
+
+The program prints the ratios of Fibonacci numbers and the golder ratio.
+But it does not really provide any comparison/discussion about them. 
+
+Problem 3: 
+
+The plot of the data is missing (-5). The plot is created but never
+displayed with plt.show(). 
+The parts two and three of the question seem to be mixed up together and
+the answer does not really make much sense. (-20) 

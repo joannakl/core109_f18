@@ -1,0 +1,18 @@
+Problem 1:
+
+Nice work, but the number of nests per female turtle is around 5.5, not 6. 
+
+Problem 2: 
+
+Good job.
+
+Problem 3: 
+
+The plot is missleading. It makes it seam that the price has been going
+up slowly for the first 50 years, but it was fixes at 0.05. (-3)
+ 
+The percentage increase was supposed to be calculated
+based on the fares and the changes in price of the fares. 
+The inflation rate does not come into play for this calculation
+When a price is 0.05 and then goes up to 0.10, the precentage
+increase is 100%. (-8)  

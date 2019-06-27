@@ -1,0 +1,12 @@
+Problem 1:
+
+Nice work, but the percentage change is not calculated correctly. 
+
+Problem 2: 
+
+Good job.
+
+Problem 3: 
+
+The answers to the second and third questions are missing (-15). 
+Good job on the plot. 

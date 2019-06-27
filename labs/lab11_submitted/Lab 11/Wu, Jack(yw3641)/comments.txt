@@ -1,0 +1,15 @@
+Problem 1:
+
+Good job, although the percentages are not calculated correctly. 
+
+Problem 2: 
+
+Nice work, but for the purpose of this problem an estimate of the golden
+ratio should be better than 1.618. 
+
+
+
+Problem 3: 
+
+Good job.
+

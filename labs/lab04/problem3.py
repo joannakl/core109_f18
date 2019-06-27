@@ -11,8 +11,8 @@ You just got a summer job offer. The only things strange about it
 is the pay structure. It seems that the deal your boss is offering
 is not that grate. Here is the offer: 
     the first day, you will make 1 cent 
-    the second day, the amount will be doubled
-    the third day, you will get twice as many cents as on day 2
+    the second day, the amount will be doubled, so you make 2 cents
+    the third day, you will get twice as many cents as on day 2, so you will make 4 cents
     the fourth day, ...
 You should see the pattern by now. Every day, the number of cents 
 that you earn is twice the number of the day before. 

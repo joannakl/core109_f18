@@ -1,0 +1,16 @@
+Problem 1:
+
+Nice work. 
+
+Problem 2: 
+
+Good job.  
+
+Problem 3: 
+
+The plot of the data is missing (-5). 
+The percentage increase was supposed to be calculated
+based on the fares and the changes in price of the fares. 
+The inflation rate does not come into play for the third part.
+When a price is 0.05 and then goes up to 0.10, the precentage
+increase is 100%. (-20) 

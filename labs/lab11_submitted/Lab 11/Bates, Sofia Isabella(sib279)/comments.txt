@@ -1,0 +1,13 @@
+Problem 1:
+
+Good job. 
+
+Problem 2: 
+
+Nice work. Too bad that the table is not aligned.
+
+Problem 3: 
+
+Good job, except for the last part. The percentage increases were supposed
+the be calculated based on the previous price. No need to correct
+anything for inflation for that part of the question. (-10) 

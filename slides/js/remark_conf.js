@@ -10,7 +10,7 @@ var slideshow = remark.create({
     // Enable or disable navigating using scroll
     // Default: true
     // Alternatives: false
-    scroll: true,
+    scroll: false,
 
     // Enable or disable navigation using touch
     // Default: true

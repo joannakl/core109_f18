@@ -1,0 +1,16 @@
+Problem 1:
+
+Good job.
+
+Problem 2: 
+
+The calculation of the ratios is not correct (-5). 
+The program calculates the (x+1)/x where x is the term
+number, instead of x/(x+1). 
+The term compare_ratios should be 1, not zero, to indicate
+that the ratio of the two consecutive fibonacci numbers
+is equal to the golden ratio. 
+
+Problem 3: 
+
+Good job.

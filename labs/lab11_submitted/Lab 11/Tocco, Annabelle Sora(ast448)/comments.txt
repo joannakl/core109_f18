@@ -1,0 +1,20 @@
+Problem 1:
+
+Good job. But the percentage change was supposed to be 
+calculated by the program not calculated elswhere and just
+printed by your code. 
+
+Problem 2: 
+
+The answer seems to be missing for this problem. 
+The little code that is there is not correct.
+(-30) 
+
+
+
+Problem 3: 
+
+This program has a lot of errors. The only part that works is the part that
+prints the hard-coded values of the percentage change in prices.
+(-25)
+

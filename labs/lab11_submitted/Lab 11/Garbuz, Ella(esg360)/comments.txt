@@ -1,0 +1,18 @@
+Problem 1:
+
+The plot does not contain correct data. The number of nests
+and female turtles should be plotted against the years (x-axis). (-10)
+The percentage increase is not computed correctly. 
+
+
+Problem 2: 
+
+Good job. 
+
+Problem 3: 
+
+The percentage increase is not computed correctly. (-10)
+When a price is 0.05 and then goes up to 0.10, the precentage increase is 100%. 
+The question about inflation is not answered (-5). 
+
+Good job on the plot. 

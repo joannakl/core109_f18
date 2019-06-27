@@ -1,0 +1,19 @@
+Problem 1:
+
+AVG%Change is not a valid Python identifier, i.e., variable name (-10). 
+This was covered in the first set of notes that we went over this semester.
+
+Once this problem is fixed the program works correctly. 
+
+Problem 2: 
+
+Nice work, but you should have looked at the actual values of the 
+ration between the consecutive Fibonacci values. Those numbers do not just
+become equal to the golden ration, they are getting closer and closer to it.
+
+Problem 3: 
+
+Nice work, but percentage increases are not computed correctly (-5).
+If the price is 5 centes, and then it becomes 10 cents, the increase is 100%, 
+not 50%. It also does not name sense to compute the percentage increase 
+for the first year since there was no previous price. 

@@ -1,0 +1,14 @@
+Problem 1:
+
+Good job. 
+
+Problem 2: 
+
+Nice work.
+
+Problem 3: 
+
+Good job, although it was enough to calculate precentage increase only for the years 
+that had a price change. 
+
+

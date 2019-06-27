@@ -1,0 +1,20 @@
+Problem 1:
+
+Nice work, but the percentage change in the number of nests is not presented 
+in a table as it was supposed to. (-3)
+
+Problem 2: 
+
+The program has a problem that prevents it from running. fib is a list
+in your code, you cannot assign a value to the name of the list
+without destroying the list itself. (-30)
+The only thing that works is the calculation of the fibonacci numbers. 
+
+
+
+Problem 3: 
+
+The percentage increase is not computed correctly. (-5)
+When a price is 0.05 and then goes up to 0.10, the precentage
+increase is 100%. 
+The table with results is not displayed properly (-3). 

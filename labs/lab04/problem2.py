@@ -7,7 +7,7 @@ Author:
 
 
 
-Write a program that displays a table of the Celsius temperatures 0 through 30 
+Write a program that displays a table of the Celsius temperatures -10 through 40 
 (in increments of 2) and their Fahrenheit equivalents. The formula for converting 
 a temperature from Celsius to Fahrenheit is 
     

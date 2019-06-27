@@ -1,0 +1,13 @@
+Problem 1:
+
+Good job.
+
+Problem 2: 
+
+Good job.
+
+Problem 3: 
+
+Good job with the plot, but the code for percentage
+increase calculation seems to have problems that 
+prevent it from running. (-10)

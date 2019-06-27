@@ -1,0 +1,13 @@
+Problem 1:
+
+
+Nice work, but the percentage change is not calculated correctly. 
+
+Problem 2: 
+
+Good job.
+
+Problem 3: 
+
+The percentage increase calculation is off by a factor of 100 (-2). 
+The question about the inflation is not answered (-5). 

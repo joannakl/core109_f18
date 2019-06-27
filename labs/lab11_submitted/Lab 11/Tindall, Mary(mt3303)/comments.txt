@@ -1,0 +1,16 @@
+Problem 1:
+
+Good job, although the percentages are not calculated correctly. 
+
+Problem 2: 
+
+The ratios are not calculated and there is no discussion
+comparing the fibonacci number ratios to the golden ratio. (-25) 
+
+
+Problem 3: 
+
+The percentage increase is not computed correctly. (-5)
+When a price is 0.05 and then goes up to 0.10, the precentage
+increase is 100%. 
+

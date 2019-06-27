@@ -1,0 +1,15 @@
+Problem 1:
+
+Nice work.
+
+Problem 2: 
+
+Good job on calculation of the ratios, but there is no
+discussion there comparing the ratio to the golden ratio (-3)
+
+Problem 3: 
+
+The percentage increase is not computed correctly. (-10)
+When a price is 0.05 and then goes up to 0.10, the precentage
+increase is 100%. 
+Good job on the plot. 
